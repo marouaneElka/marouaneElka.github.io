@@ -1,0 +1,13 @@
+li {
+    list-style-type: none;
+}
+
+.checklist > li {
+    list-style-image: url("../images/unchecked.jpg");
+}
+
+.checklist > li.checked {
+    list-style-image: url("../images/checked.jpg");
+
+}
+
