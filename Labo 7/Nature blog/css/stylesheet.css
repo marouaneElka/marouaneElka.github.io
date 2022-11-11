@@ -1,0 +1,56 @@
+body {
+    width: 1200px;
+    margin: auto;
+}
+
+section > header {
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    height: 10vh;
+    font-size: 2em;
+    padding-left: 1vw;
+    font-family: Verdana;
+}
+section > header > h1 {
+    margin-top: 0vh;
+}
+
+nav {
+    background-color: grey;
+}
+
+nav > a {
+    color: lightgreen;
+    padding-left: .5vw;
+}
+
+nav {
+    padding-top: .5vh;
+    padding-bottom: .5vh
+}
+
+article > header {
+    font-size: 4vh;
+    text-decoration: underline;
+}
+
+article {
+    background-color: lightgray;
+    padding-left: .5vw;
+}
+
+article > header > h1 {
+    margin: .5vh;
+    padding-top: 4vh;
+    padding-bottom: 3vh;
+}
+
+article > footer {
+    padding-bottom: .5vh;
+}
+
+body > section > footer {
+    margin-top: 1vh;
+    margin-bottom: 5vh;
+}

@@ -1,0 +1,32 @@
+body {
+    margin-left: 1vw;
+}
+
+h1 {
+    padding-bottom: 1vh;
+    font-size: 5vh;
+}
+
+h2 {
+    font-size: 3vh;
+}
+
+section {
+    background-color: grey;
+    padding-bottom: .5vh;
+}
+
+aside {
+    background-color: grey;
+    padding-bottom: .5vh;
+}
+
+img {
+    margin-left: .5vw;
+    margin-bottom: .5vh;
+}
+
+th, td {
+    padding: 2px;
+    border: 1px solid black;
+}
