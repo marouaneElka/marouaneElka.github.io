@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a5ea74-0168-48f9-a862-926474bc14b8" name="Changes" comment="" />
+    <list default="true" id="9d9b9a1a-96f9-4707-a430-80a870fd0f7f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +10,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GiOsdLvdXVasRvj74xOVtI2xOD" />
+  <component name="ProjectId" id="2Hy0QdchErRDo3My6Zg3Y651Odl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,30 +40,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 7\Opdracht 2\images" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 7\Persoonlijke homepage" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 3\Personal homepage" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 7\Persoonlijke homepage" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 1\Opdracht 1" />
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Verslag css deel 4\test" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="43a5ea74-0168-48f9-a862-926474bc14b8" name="Changes" comment="" />
-      <created>1666868145242</created>
+      <changelist id="9d9b9a1a-96f9-4707-a430-80a870fd0f7f" name="Changes" comment="" />
+      <created>1669242001063</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666868145242</updated>
-      <workItem from="1666868146386" duration="146000" />
-      <workItem from="1666903082822" duration="4010000" />
-      <workItem from="1668075185864" duration="133000" />
-      <workItem from="1668077912989" duration="3454000" />
-      <workItem from="1668177265573" duration="4063000" />
-      <workItem from="1668850841297" duration="27000" />
-      <workItem from="1669841491345" duration="523000" />
+      <updated>1669242001063</updated>
+      <workItem from="1669242002236" duration="2041000" />
+      <workItem from="1669279886565" duration="596000" />
+      <workItem from="1669284438589" duration="12304000" />
+      <workItem from="1669575069095" duration="5476000" />
+      <workItem from="1669755612045" duration="2657000" />
+      <workItem from="1669841299699" duration="189000" />
     </task>
     <servers />
   </component>

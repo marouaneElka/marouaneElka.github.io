@@ -1,0 +1,14 @@
+section {
+    overflow: hidden;
+    border: black solid 1px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+section:first-child {
+    width: 50%;
+    float:left;
+    margin-right: 10px;
+}
+

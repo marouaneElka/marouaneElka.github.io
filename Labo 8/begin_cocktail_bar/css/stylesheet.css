@@ -1,0 +1,99 @@
+* {
+    /*font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+    font-size: 1.2em;*/
+}
+
+body {
+    width: 95%;
+    font-size: 1.2em;
+    font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+    color: #007e7e;
+    font-size: 150%;
+}
+
+h2 {
+    color: #007e7e;
+    font-size: 130%;
+
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+#tekst {
+    width: 70%;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 5px;
+}
+
+#drankjes {
+    float: right;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid darkcyan;
+    text-align: center;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    padding: 20px;
+    line-height: 1.2;
+}
+
+#drankjes a:hover {
+    background-color: saddlebrown;
+    color:white;
+}
+
+#drankjes h1 {
+    color: black;
+}
+
+#drankjes h2 {
+    color: sandybrown;
+}
+
+.vettig {
+    font-weight: bold;
+}
+
+.curs {
+    font-style: italic ;
+}
+
+#guarantee {
+    display: block;
+    color: #444444;
+    background-color: #a7cece;
+    margin: 30px;
+    padding: 20px 20px 20px 70px;
+    border: white dashed 5px;
+    line-height: 1.8em;
+    font-style: italic;
+    background-image:url("../images/background.gif") ;
+    background-repeat: no-repeat;
+
+}
+
+footer {
+    text-align: center;
+    clear: both;
+    font-size: 50%;
+}
+
+a:link {
+    color: saddlebrown;
+}
+
+a:visited {
+    color: saddlebrown;
+}

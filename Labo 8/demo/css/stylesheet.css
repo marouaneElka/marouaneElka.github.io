@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: grey;
+}
+
+img {
+    width: 10vw;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+nav {
+    float:left;
+    background-color: white;
+    width: 20vw;
+    height: 20vh;
+}
+
+section {
+    background-color: red;
+    float:left;
+    width: 80vw;
+    height: 20vh;
+}
+
+footer {
+    height: 10vh;
+    clear:both;
+    background-color: green;
+}
