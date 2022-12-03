@@ -1,0 +1,136 @@
+body {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Arial", "Helvetica", sans-serif;
+  background: #e6e6e6 url("../fotos/pagebackground.png") repeat-y center;
+}
+
+.top {
+  background-image: url("../fotos/bgsky3.jpg");
+  background-repeat: no-repeat;
+  height: 200px;
+}
+
+.top > p {
+  color: darkblue;
+  font-weight: bold;
+  text-align: center;
+}
+
+.top > p:nth-child(1) {
+  font-size: 300%;
+}
+
+.top > p:nth-child(2) {
+  font-size: 240%;
+}
+
+div.top {
+  position: relative;
+}
+
+div.top > img {
+  position: absolute;
+  right: 90px;
+  bottom: 60px;
+}
+
+.news {
+  width: 250px;
+  background-color: #dddddd;
+  border: 1px #999999 solid;
+  color: #666666;
+  font-size: 90%;
+  float: right;
+}
+
+.news > h3 {
+  color: white;
+  background-color: blue;
+  font-size: 120%;
+  text-align: center;
+}
+
+.news > p {
+  margin: 0 10px 10px;
+}
+
+.main {
+  width: 700px;
+  float: left;
+}
+
+.introduction > p {
+  background-color: white;
+  color: black;
+  text-align: justify;
+  padding: 20px 30px 30px 20px;
+  float: left;
+  width: 560px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main > div > img {
+  margin-top: 20px;
+}
+
+.introduction > p > span {
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.gallery {
+  background-color: #999999;
+  clear: both;
+}
+
+.logo {
+  float: left;
+  width: 140px;
+  box-sizing: border-box;
+  padding: 20px 20px;
+}
+
+.foto {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px;
+  background-color: white;
+  border: 1px dashed #999999;
+}
+
+.gallery > div.foto > img {
+  padding: 10px;
+  width: 180px;
+  height: 180px;
+}
+
+.bottom {
+  clear: both;
+  background-color: #666666;
+  color: white;
+  line-height: 2em;
+}
+
+.block {
+  display: inline-block;
+  margin-right: 120px;
+}
+
+.block a {
+  color: white;
+}
+
+.block a:hover {
+  color: red;
+}
+
+.copyright {
+  color: black;
+  background-color: white;
+  text-align: center;
+}

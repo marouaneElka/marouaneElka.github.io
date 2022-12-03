@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a5ea74-0168-48f9-a862-926474bc14b8" name="Changes" comment="" />
+    <list default="true" id="1913d7c6-3fd6-48d8-b482-918a1c65e143" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +10,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GiOsdLvdXVasRvj74xOVtI2xOD" />
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="2IJAf6lNl2vSVBupeWXnGXzTrMl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,39 +39,29 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
     "last_opened_file_path": "C:/Users/marou/OneDrive - Hogeschool VIVES/Web Development 1/Github/marouaneElka.github.io",
     "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\marou\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 7\Opdracht 2\images" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 7\Persoonlijke homepage" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 3\Personal homepage" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 7\Persoonlijke homepage" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo 1\Opdracht 1" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="43a5ea74-0168-48f9-a862-926474bc14b8" name="Changes" comment="" />
-      <created>1666868145242</created>
+      <changelist id="1913d7c6-3fd6-48d8-b482-918a1c65e143" name="Changes" comment="" />
+      <created>1669889412159</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666868145242</updated>
-      <workItem from="1666868146386" duration="146000" />
-      <workItem from="1666903082822" duration="4010000" />
-      <workItem from="1668075185864" duration="133000" />
-      <workItem from="1668077912989" duration="3454000" />
-      <workItem from="1668177265573" duration="4063000" />
-      <workItem from="1668850841297" duration="27000" />
-      <workItem from="1669841491345" duration="1154000" />
-      <workItem from="1669889400272" duration="12000" />
-      <workItem from="1670095667029" duration="199000" />
+      <updated>1669889412159</updated>
+      <workItem from="1669889413339" duration="5906000" />
+      <workItem from="1669908205015" duration="3275000" />
+      <workItem from="1669981057959" duration="214000" />
+      <workItem from="1670095591381" duration="74000" />
     </task>
     <servers />
   </component>
