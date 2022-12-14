@@ -1,0 +1,44 @@
+.center {
+  text-align: center;
+}
+body {
+  margin-left: 1vw;
+}
+
+div > h1 {
+  padding-bottom: 1vh;
+  font-size: 5vh;
+}
+
+div > h2 {
+  font-size: 5vh;
+}
+
+section {
+  padding-bottom: 0.5vh;
+}
+
+aside {
+  padding-bottom: 0.5vh;
+}
+
+img {
+  margin-left: 0.5vw;
+  margin-bottom: 0.5vh;
+  height: 300px;
+  width: auto;
+}
+
+th,
+td {
+  padding: 2px;
+  border: 1px solid black;
+}
+
+.groot > ul > li {
+  margin-bottom: 5px;
+}
+
+tr {
+  text-align: center;
+}

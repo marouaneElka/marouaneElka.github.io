@@ -1,0 +1,11 @@
+.odd > div {
+  background-color: grey;
+  height: 300px;
+  margin: 20px 0;
+}
+
+.even > div {
+  background-color: #a7cece;
+  height: 300px;
+  margin: 20px 0;
+}
