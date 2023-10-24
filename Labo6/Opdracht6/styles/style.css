@@ -1,0 +1,6 @@
+li:nth-child(odd) {
+  list-style-image: url("../images/checked.jpg");
+}
+li:nth-child(even) {
+  list-style-image: url("../images/unchecked.jpg");
+}
