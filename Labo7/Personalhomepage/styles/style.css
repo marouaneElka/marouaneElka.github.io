@@ -1,0 +1,19 @@
+img {
+  width: 50px;
+  height: auto;
+}
+
+table,
+th,
+td {
+  border: solid green 1px;
+  border-collapse: collapse;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  font-size: 3em;
+}
