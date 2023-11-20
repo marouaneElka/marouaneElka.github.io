@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -25,22 +26,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/marou/OneDrive - Hogeschool VIVES/Web Development 1/Github/marouaneElka.github.io/Labo7",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\marou\\AppData\\Roaming\\npm\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marou/OneDrive - Hogeschool VIVES/Web Development 1/Github/marouaneElka.github.io/Labo8&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\marou\\AppData\\Roaming\\npm\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo8" />
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo8\demo\positioneren elementen\Demo2\beginsituatie\images" />
       <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo8" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +64,9 @@
       <workItem from="1698006421315" duration="1745000" />
       <workItem from="1698138510585" duration="4692000" />
       <workItem from="1698188031005" duration="29000" />
-      <workItem from="1699351922361" duration="3077000" />
+      <workItem from="1699351922361" duration="3769000" />
+      <workItem from="1699956353611" duration="6320000" />
+      <workItem from="1700487858331" duration="3482000" />
     </task>
     <servers />
   </component>

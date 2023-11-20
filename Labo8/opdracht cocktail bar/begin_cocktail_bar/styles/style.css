@@ -1,0 +1,83 @@
+body {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 1.2em;
+  font-family: Verdana, Helvetica, Arial;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+h1,
+h2 {
+  color: #007e7e;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 130%;
+}
+
+.weekly {
+  float: right;
+  width: 30%;
+  border: solid 1px #007e7e;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.cocktail {
+  float: left;
+  width: 70%;
+  box-sizing: border-box;
+  padding-right: 50px;
+}
+
+footer {
+  clear: both;
+}
+
+.weekly > h1 {
+  color: black;
+  background-image: url("../images/cocktail.gif");
+  background-repeat: repeat;
+  padding-top: 45px;
+  margin-top: 0;
+}
+
+.weekly > h2 {
+  color: red;
+}
+
+footer {
+  font-size: 50%;
+  text-align: center;
+}
+
+.weekly > p > a:hover {
+  color: brown;
+}
+
+#guarantee {
+  margin: 30px;
+  padding: 20px;
+  color: #444444;
+  background-color: #a7cece;
+  border: 3px white dotted;
+  background-image: url("../images/background.gif");
+  background-repeat: no-repeat;
+  padding-left: 75px;
+}
+
+.styleli > li:first-child {
+  font-style: italic;
+}
+
+.styleli > li > span {
+  font-weight: bold;
+}

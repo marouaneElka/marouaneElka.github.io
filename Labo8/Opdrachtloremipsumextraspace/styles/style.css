@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.blok {
+  border: 1px solid black;
+  padding: 10px;
+  float: left;
+  width: calc(50% - 10px);
+  box-sizing: border-box;
+  margin-right: 10px;
+}
+
+.blok:nth-child(2) {
+  margin-right: 0;
+}
