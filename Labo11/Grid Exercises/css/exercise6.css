@@ -43,6 +43,10 @@ main .block {
   }
 }
 
+header {
+  background-color: purple;
+}
+
 @media screen and (min-width: 772px) and (max-width: 992px) {
   main {
     display: grid;
