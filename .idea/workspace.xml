@@ -32,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/marou/OneDrive - Hogeschool VIVES/Web Development 1/Github/marouaneElka.github.io/Labo10/Personalhomepage/styles",
+    "last_opened_file_path": "C:/Users/marou/OneDrive - Hogeschool VIVES/Web Development 1/Github/marouaneElka.github.io/Labo11/Demo/Grid",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\marou\\AppData\\Roaming\\npm\\node_modules\\prettier",
@@ -42,11 +42,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo11\Demo\Grid" />
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo11\Demo\Bootstrap\style" />
+      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo11\Demo\Bootstrap" />
       <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo10\Personalhomepage\styles" />
       <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo10" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo10\beginsituatie_bootstrap5\beginsituatie_bootstrap5\style" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo8" />
-      <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo8\demo\positioneren elementen\Demo2\beginsituatie\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\marou\OneDrive - Hogeschool VIVES\Web Development 1\Github\marouaneElka.github.io\Labo10\composition\styles" />
@@ -73,7 +73,9 @@
       <workItem from="1700491575561" duration="154000" />
       <workItem from="1700928505347" duration="5913000" />
       <workItem from="1701099999766" duration="1031000" />
-      <workItem from="1701166173113" duration="5325000" />
+      <workItem from="1701166173113" duration="5357000" />
+      <workItem from="1701172941145" duration="70000" />
+      <workItem from="1701770886158" duration="5634000" />
     </task>
     <servers />
   </component>
