@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles/style.css" />
+    <script
+      type="text/javascript"
+      charset="utf-8"
+      src="scripts/code.js"
+    ></script>
+    <title>Title</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>producten</td>
+        <td>prijs</td>
+        <td colspan="2">aantal</td>
+        <td>btw</td>
+        <td>subtotaal</td>
+      </tr>
+      <tr>
+        <td>product1</td>
+        <td class="prijs">10.00 Eur</td>
+        <td colspan="2"><input type="number" value="0" class="aantal" /></td>
+        <td class="btw">6%</td>
+        <td class="subtotaal">0.00 Eur</td>
+      </tr>
+      <tr>
+        <td>product2</td>
+        <td class="prijs">15.00 Eur</td>
+        <td colspan="2"><input type="number" value="0" class="aantal" /></td>
+        <td class="btw">21%</td>
+        <td class="subtotaal">0.00 Eur</td>
+      </tr>
+      <tr>
+        <td>product3</td>
+        <td class="prijs">12.20 Eur</td>
+        <td colspan="2"><input type="number" value="0" class="aantal" /></td>
+        <td class="btw">21%</td>
+        <td class="subtotaal">0.00 Eur</td>
+      </tr>
+      <tr>
+        <td colspan="5">Totaal</td>
+        <td id="txtTotaal">0.00 Eur</td>
+      </tr>
+    </table>
+    <button id="btnHerbereken">Herbereken</button>
+  </body>
+</html>
