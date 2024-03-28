@@ -1,0 +1,16 @@
+body {
+  margin-left: 50px;
+}
+
+.swatch {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  /*
+  display: inline-black;
+  border: solid 1px black;
+  margin: 0 0 0 1em;
+  height: 4em;
+  width: 5em;
+   */
+}
